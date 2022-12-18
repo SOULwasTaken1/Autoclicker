@@ -13,7 +13,7 @@ from pynput.mouse import Button, Controller
 import customtkinter
 #=======================================
 customtkinter.set_appearance_mode("dark")
-customtkinter.set_default_color_theme("blue")
+customtkinter.set_default_color_theme("dark-blue")
 #=======================================
 
 root = customtkinter.CTk()
